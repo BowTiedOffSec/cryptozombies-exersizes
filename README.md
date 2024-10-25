@@ -1,2 +1,2 @@
 # cryptozombies-exersizes
-I am working on learning more about solidity development using crypto zombies to start
+This repository includes smart contract exercises from CryptoZombies as I learn Solidity and explore blockchain security. This is my first repo.
